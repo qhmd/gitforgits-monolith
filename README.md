@@ -1,3 +1,5 @@
+simulasi project: https://youtu.be/NGMO4_hdpBI
+
 untuk run nya, karena menggunakan Docker :
 docker compose up --build
 

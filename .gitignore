@@ -1,0 +1,14 @@
+# Go
+/tmp/
+*.exe
+*.test
+*.out
+
+# Air config
+.air.toml
+
+# Env file
+.env
+
+# Docker
+*.log
